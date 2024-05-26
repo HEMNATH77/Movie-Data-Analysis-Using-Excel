@@ -15,10 +15,10 @@
 <ol><h3>RATINGS</h3>
    <P>This Bar Graph shows the Audience Rating for each Movie</P> 
    <img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/Movie-Data-Analysis-Using-Excel/assets/146712643/7692def0-71a2-4dcf-8f84-27dce7f4dbd3">
-<h3>REVENUE</h3>
+<h3>REVENUE($)</h3>
    <p>The Pie Chart shows the Revenue for each movie</p>
   <img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/Movie-Data-Analysis-Using-Excel/assets/146712643/4031274e-3413-4a4c-b5e3-cb4f05ce28dd">
-<h3>BUDGET</h3>   
+<h3>BUDGET($)</h3>   
    <p> Line Graph describes the budget made for each Film</p>
    <img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/Movie-Data-Analysis-Using-Excel/assets/146712643/34205c5f-2ef6-4a4a-a6ef-0eae328e547b">
 <h3>Language</h3>
