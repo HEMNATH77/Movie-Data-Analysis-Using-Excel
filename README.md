@@ -17,10 +17,10 @@
   <img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/Movie-Data-Analysis-Using-Excel/assets/146712643/4031274e-3413-4a4c-b5e3-cb4f05ce28dd">
 <h3>BUDGET</h3>   
    <h4> Line Graph describes the budget made for each Film</h4>
-   <img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/Movie-Data-Analysis-Using-Excel/assets/146712643/0df8f9fd-eaea-4e84-ae37-17e27ac105ca">
+   <img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/Movie-Data-Analysis-Using-Excel/assets/146712643/34205c5f-2ef6-4a4a-a6ef-0eae328e547b">
 <h3>Language</h3>
    <h4>This bar chart illustrates the distribution of movies by language</h4>
-   <img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/Movie-Data-Analysis-Using-Excel/assets/146712643/41b820f0-b0ce-43dd-97f6-59b62431d393">
+   <img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/Movie-Data-Analysis-Using-Excel/assets/146712643/3105503e-2791-4363-ab45-23561d45c5f0">
    <h2>DASHBOARD</h2>
    <h3>By this Dashbord we can analyse and visualize the overall data provided in the dataset with some interesting information given by the Charts</h3>
   <h3>Link</h3>
