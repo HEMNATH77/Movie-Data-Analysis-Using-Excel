@@ -2,12 +2,14 @@
 <h2>PROJECT OVERVIEW</h2>
 <p>This project focuses on cleaning and organizing a dataset of movies from an Excel file. By using sorting and filtering options, I have extracted the necessary data and arranged it into a well-defined format for further analysis.</p>
 <h2>STEPS</h2>
-<ol> <h3>1. Initialize the Data</h3>
+<ol> 
+   <h3>1. Initialize the Data</h3>
 <h3>2. Sort And Filter the data</h3>
 <h3>3. Insert a Pivot Table for the dataset </h3>
 <h3>4. Create Charts for the Pivot tables</h3>
 <h3>5. To make the charts effective...Add Slicers </h3>
-<h3>6. Make the Slicers Interactive By selectiong all the charts in Report Connections</h3></ol>
+<h3>6. Make the Slicers Interactive By selectiong all the charts in Report Connections</h3>
+</ol>
 <h2>Pivot Charts</h2>
 <ol><h3>RATINGS</h3>
    <P>This Bar Graph shows the Audience Rating for each Movie</P> 
