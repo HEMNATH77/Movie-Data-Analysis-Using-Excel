@@ -12,7 +12,7 @@
 <h4>7. Choose the Multi-Select option in the Slicers to Compare the Data </h4>
 </ol>
 <h2>Pivot Charts</h2>
-<ol><h3>RATINGS(/10)</h3>
+<ol> <h3>RATINGS(/10)</h3>
    <P>This Bar Graph shows the Audience Rating for each Movie</P> 
    <img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/Movie-Data-Analysis-Using-Excel/assets/146712643/7692def0-71a2-4dcf-8f84-27dce7f4dbd3">
 <h3>REVENUE($)</h3>
