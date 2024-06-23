@@ -24,10 +24,8 @@
 <h3>Language</h3>
    <p>This bar chart illustrates the distribution of movies by language</p>
    <img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/Movie-Data-Analysis-Using-Excel/assets/146712643/e6760784-7e53-45e9-93d5-680023b0a73f"></ol>
-   <h2>DASHBOARD</h2>
-   <p>By this Dashbord we can analyse and visualize the overall data provided in the dataset with some interesting information given by the Charts</p>
-  <h3>Link</h3>
- https://1drv.ms/x/c/ade15d3bea4a6930/EQ4WuSO_6ddItBRZ1OEjDCsB6k9gOxCiOWhPBylQqsszLQ?e=U2GuPY
+<h2>Conclusion</h2>   
+     <p> Therefore, the movie data analysis provides comprehensive insights into each movie's ratings, revenue, language, and budget. This enables us to evaluate each movie's contribution and impact on the global film industry. By examining these factors, we can better understand the elements that drive a movie's success and its influence on audiences worldwide. </p>
 
    
 
